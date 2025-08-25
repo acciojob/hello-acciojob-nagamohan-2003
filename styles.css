@@ -1,2 +1,19 @@
+ /*
+          Styles for the main element with the ID 'job'.
+          It has a fixed width and height of 150px.
+        */
+        #job {
+            width: 150px;
+            height: 150px;
+            background-color: #000000;
+        }
 
-/* Your CSS Code here. */
+        /*
+          Styles for the paragraph element with the class 'hello-accio'.
+          The text color is white, and it has a left margin and padding.
+        */
+        .hello-accio {
+            color: #ffffff;
+            margin-left: 32px;
+            padding: 10px;
+        }
